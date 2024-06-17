@@ -42,7 +42,6 @@ class Taximetro:
         self.tiempo_total = 0
         self.total_euros = 0
 
-
 if __name__ == "__main__":
     taximetro = Taximetro()
     taximetro.iniciar_carrera()
